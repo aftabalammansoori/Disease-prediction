@@ -55,6 +55,5 @@ If you'd like to contribute, feel free to fork the repository and submit a pull 
 ---
 
 ⭐ If you found this project helpful, consider giving it a star! 🚀  
-```
 
 Let me know if you want any modifications! 😊
