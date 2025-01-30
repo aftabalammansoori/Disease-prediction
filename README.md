@@ -1,1 +1,1 @@
-# Disease-prediction
+# Multiple Disease-prediction Using Machine Learning
